@@ -4,6 +4,7 @@
 - :kr: 한글
 - :us: 영어
 - :video_camera: 비디오 자료
+- :book: 책 자료
 - :floppy_disk: PDF/PPT 자료
 - :page_facing_up: 자막 여부
 - :dollar: 유료 여부
@@ -11,4 +12,5 @@
 # Computer Science
 
 # Mathematics
-- [【한글자막】 확률 및 통계 마스터하기](https://www.udemy.com/course/probability-statistics-master/) :kr: :dollar:
+- [【한글자막】 확률 및 통계 마스터하기](https://www.udemy.com/course/probability-statistics-master/) - :kr: :video_camera: :floppy_disk: :dollar:
+- [Algebra II For Dummies](https://www.amazon.com/Algebra-Dummies-Mary-Jane-Sterling/dp/1119543142) - :us: :book: :dollar:
