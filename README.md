@@ -10,6 +10,7 @@
 - :dollar: 유료 여부
 
 # Computer Science
+- [Computer Networking: A Top-Down Approach, 8th Edition](https://www.amazon.com/Computer-Networking-Top-Down-James-Kurose/dp/9356061319) - :us: :book: :dollar:
 
 # Mathematics
 - [【한글자막】 확률 및 통계 마스터하기](https://www.udemy.com/course/probability-statistics-master/) - :kr: :video_camera: :floppy_disk: :dollar:
